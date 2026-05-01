@@ -1,0 +1,34 @@
+JOHN SMITH
+john.smith@email.com | (555) 123-4567 | LinkedIn: linkedin.com/in/johnsmith
+
+PROFESSIONAL SUMMARY
+Data Scientist with 6 years of experience in machine learning and data analysis. Skilled in Python, TensorFlow, and AWS. Proven track record of building ML models that improve business metrics.
+
+EXPERIENCE
+Senior Data Scientist - Tech Company (2022-Present)
+- Developed emotion detection system using deep learning, improving accuracy by 25%
+- Built recommendation system that increased user engagement by 40%
+- Led team of 3 junior data scientists in cross-functional projects
+- Implemented CI/CD pipelines for ML model deployment
+
+Data Scientist - Analytics Firm (2018-2022)
+- Analyzed large datasets using Python and SQL
+- Created predictive models for customer churn reduction
+- Mentored 2 junior team members on best practices
+
+SKILLS
+Technical: Python, Machine Learning, TensorFlow, PyTorch, SQL, Docker, AWS, REST API
+Soft Skills: Leadership, Communication, Problem Solving
+
+PROJECTS
+- Emotion Detection System: Built CNN model using TensorFlow, trained on 50k images
+- Recommendation Engine: Collaborative filtering system for e-commerce platform
+- Customer Analytics Dashboard: Real-time analytics tool using Python and AWS
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate
+- TensorFlow Professional Certificate
+
+EDUCATION
+Master of Science in Computer Science - State University (2018)
+Bachelor of Science in Mathematics - State University (2016)

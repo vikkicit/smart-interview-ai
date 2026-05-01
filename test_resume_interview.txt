@@ -1,0 +1,64 @@
+JOHN SMITH
+Senior Data Scientist | Machine Learning Engineer
+Email: john@example.com | Phone: 555-0123 | LinkedIn: linkedin.com/in/johnsmith
+
+PROFESSIONAL SUMMARY
+Senior Data Scientist with 7 years of experience in building machine learning models, data pipelines, and analytics solutions. Expert in Python, TensorFlow, and AWS. Strong track record of delivering business-impacting projects that increased revenue and reduced operational costs.
+
+EXPERIENCE
+Senior Data Scientist | Tech Corp | 2021 - Present
+- Led team of 3 data scientists building recommendation engine, increased user engagement by 35%
+- Deployed PyTorch models to production using Docker and AWS SageMaker, reduced inference latency by 40%
+- Developed automated data pipeline using Apache Spark, processing 10GB daily
+- Mentored 5 junior data scientists on ML best practices and code quality
+
+Data Scientist | Data Systems Inc | 2018 - 2021
+- Built customer churn prediction model using gradient boosting, achieved 92% accuracy
+- Created REST API using FastAPI for model serving, handling 1000 requests/day
+- Implemented A/B testing framework for feature experiments
+- Collaborated with product team on 8+ feature releases
+
+Machine Learning Engineer | StartupAI | 2016 - 2018
+- Developed NLP pipeline for text classification using BERT
+- Optimized model training time from 24 hours to 2 hours using distributed GPU computing
+- Built dashboard using JavaScript and React to visualize model performance
+
+EDUCATION
+Master's in Computer Science (Machine Learning Focus) | University Tech | 2016
+Bachelor's in Mathematics | State University | 2014
+
+SKILLS
+Programming: Python, JavaScript, SQL, Java
+ML Frameworks: TensorFlow, PyTorch, scikit-learn, XGBoost
+Cloud: AWS (EC2, S3, SageMaker), Google Cloud
+Tools: Docker, Git, Kubernetes, Apache Spark, Jupyter
+Databases: PostgreSQL, MongoDB, Redis
+
+CERTIFICATIONS
+AWS Certified Machine Learning Specialist | 2021
+TensorFlow Certificate | 2019
+Google Cloud Professional Data Engineer | 2018
+
+PROJECTS
+E-commerce Recommendation Engine | 2022
+- Built collaborative filtering system using TensorFlow
+- Deployed to production handling 500K+ users
+- Increased average order value by 28%
+
+Customer Lifetime Value Prediction | 2021
+- Developed gradient boosting model predicting CLV with 89% accuracy
+- Identified high-value customer segments
+- Helped sales team prioritize outreach efforts
+
+NLP Text Classifier | 2020
+- Fine-tuned BERT model for content classification
+- Achieved 94% precision on toxic content detection
+- Deployed as microservice using Docker
+
+LANGUAGES
+English (Native), Spanish (Fluent)
+
+ADDITIONAL
+- Active contributor to open-source ML projects on GitHub
+- Published 2 articles on Medium about machine learning best practices
+- Regular speaker at AI meetups and conferences
